@@ -8,11 +8,14 @@
   * [How to Contribute](#how-to-contribute)
   * [Tests](#tests)
   * [Liscense](#liscense)
-  * [Questions](#questions)
+  * [Contact Me](#contact-me)
   ## Installation
   Download the files locally, install dependencies with node.
   ## Usage
   Start command is "npm start".
+  ## Screenshots
+  ![Fit-Track_1](https://github.com/CIDoubleAgent/Fit-Track/blob/main/images/Fit-Track_1.png?raw=true)
+  ![Fit-Track_2](https://github.com/CIDoubleAgent/Fit-Track/blob/main/images/Fit-Track_2.png?raw=true)
   ## How to contribute
   There are no contribution guidlines for this repository.
   ## Tests
@@ -40,6 +43,7 @@
         CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
         TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
         SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  ## Questions
-  * GitHub username: [CIDoubleAgent](https://github.com/CIDoubleAgent)
-  * Contact email: This user's email is private
+  ## Contact Me
+* GitHub Username: [CIDoubleAgent](https://github.com/CIDoubleAgent)
+* Contact email: [nzabkar51@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nzabkar51@gmail.com)
+* Profile Page: [Click Here](https://cidoubleagent.github.io/react-portfolio/)
